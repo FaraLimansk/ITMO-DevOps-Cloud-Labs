@@ -4,7 +4,7 @@
 # Иван Фёдоров К3240 409766
 ## Вариант №4
 
-
+![image3](https://github.com/FaraLimansk/ITMO-DevOps-Cloud-Labs/blob/main/Clouds/Labs/screens/image.png)
 
 # Лабораторная работа №2: Анализ публичных облачных сервисов
 
@@ -46,13 +46,13 @@
 
 Пример работы с данными:
 
-![]()
+![image1](https://github.com/FaraLimansk/ITMO-DevOps-Cloud-Labs/blob/main/Clouds/Labs/screens/imagez1.png)
 
 
 ---
 
 ## Примеры сервисов
-![]()
+![image2](https://github.com/FaraLimansk/ITMO-DevOps-Cloud-Labs/blob/main/Clouds/Labs/screens/imagez2.png)
 ### Описание сервисов
 
 1. **Azure Data Lake Store** — хранилище данных для работы с большими объемами неструктурированных данных.
@@ -72,7 +72,7 @@
 15. **SQL Database** — облачная платформа для управления базами данных.
 
 ### Финальная таблица
-
+![image3](https://github.com/FaraLimansk/ITMO-DevOps-Cloud-Labs/blob/main/Clouds/Labs/screens/imagez3.png)
 Сопоставление сервисов выполнено согласно документации и принципам классификации. Финальный результат доступен [ЖМАК](https://docs.google.com/spreadsheets/d/1pZcO3ufADtOr_PQ2Kvi_XNDGXsepZ1cv6wlTLGuXd7Y/edit?gid=17352236#gid=17352236).
 
 ---
