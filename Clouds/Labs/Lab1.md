@@ -79,7 +79,7 @@ AWS Directory Service — сервис управления каталогами
 
 ## Результат полностью заполненной таблицы  
 
-[tablefull](https://github.com/FaraLimansk/ITMO-DevOps-Cloud-Labs/blob/main/Clouds/Labs/screens/image3.png) 
+![Image](https://github.com/FaraLimansk/ITMO-DevOps-Cloud-Labs/blob/main/Clouds/Labs/screens/image3.png)
 
 [Google Таблицы](https://docs.google.com/spreadsheets/d/1K5wN5ro1er79Xf9Olc-EUlogDJEKqNL6-dlUqJR2WNI/edit?gid=273269866#gid=273269866)
 
