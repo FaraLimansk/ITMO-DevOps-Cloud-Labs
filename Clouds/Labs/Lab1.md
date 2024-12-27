@@ -1,5 +1,5 @@
 ### Автор : Фёдоров Иван 
-![Фото](https://github.com/FaraLimansk/ITMO-DevOps-Cloud-Labs/tree/main/Clouds/Labs/sceens/image.png)
+![Image](https://github.com/FaraLimansk/ITMO-DevOps-Cloud-Labs/blob/main/Clouds/Labs/screens/image.png)
 ## Лабораторная работа №1 (AWS) . Знакомство с IaaS, PaaS, SaaS сервисами в облаке на примере Amazon Web Services (AWS). Создание сервисной модели.
 
 ## ТЗ проделаной работы :
