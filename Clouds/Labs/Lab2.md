@@ -72,8 +72,8 @@
 15. **SQL Database** — облачная платформа для управления базами данных.
 
 ### Финальная таблица
-![image3](https://github.com/FaraLimansk/ITMO-DevOps-Cloud-Labs/blob/main/Clouds/Labs/screens/imagez3.png)
-Сопоставление сервисов выполнено согласно документации и принципам классификации. Финальный результат доступен [ЖМАК](https://docs.google.com/spreadsheets/d/1pZcO3ufADtOr_PQ2Kvi_XNDGXsepZ1cv6wlTLGuXd7Y/edit?gid=17352236#gid=17352236).
+![image3](https://github.com/FaraLimansk/ITMO-DevOps-Cloud-Labs/blob/main/Clouds/Labs/screens/imaga.png)
+Сопоставление сервисов выполнено согласно документации и принципам классификации. Финальный результат доступен [ЖМАК](https://docs.google.com/spreadsheets/d/1kmAEpIVG467jZlskrz42AtoBxw9crAosLRxEb58EV0A/edit?gid=903142688#gid=903142688).
 
 ---
 
