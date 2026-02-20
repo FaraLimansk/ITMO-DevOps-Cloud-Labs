@@ -1,6 +1,6 @@
-# ITMO DevOps & Cloud Labs
-Laboratory works for the DevOps and Cloud Technologies course, completed for ITMO University.
-## Список лабораторных работ
+# DevOps & Cloud Guide
+
+## Список моментов которые можно рассмотреть. 
 
 1. [Лабораторная работа по DevOps №1](./DevOps-Lab1/)
 2. [Лабораторная работа со звездочкой по DevOps №1](./DevOps-Lab1-Star/)
